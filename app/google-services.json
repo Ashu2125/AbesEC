@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933867173105",
+    "project_id": "college-management-app-abes",
+    "storage_bucket": "college-management-app-abes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933867173105:android:a0fe5aa392f73666742550",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFPE0kiSCBZAvJJClxi6wFfMqUvHsucUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

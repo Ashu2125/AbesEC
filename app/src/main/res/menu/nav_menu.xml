@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<item
+    android:id="@+id/AbesBusinessSchool"
+    android:title="@string/abes_business_school"/>
+
+    <item
+        android:id="@+id/registration"
+        android:title="@string/registration"/>
+    <item
+        android:id="@+id/events"
+        android:title="@string/events"/>
+    <item
+        android:id="@+id/admissions"
+        android:title="@string/admissions"/>
+    <item
+        android:id="@+id/placement"
+        android:title="@string/placement"/>
+    <item
+        android:id="@+id/aboutus"
+        android:title="@string/about_us"/>
+
+    <item android:title="@string/profile">
+        <menu>
+               <item
+                   android:id="@+id/logout"
+                   android:title="@string/logout"
+                   android:icon="@drawable/ic_baseline_logout_24"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/communicate">
+
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="@string/share"/>
+
+            <item
+                android:id="@+id/RateUs"
+                android:icon="@drawable/ic_baseline_rate_review_24"
+                android:title="@string/rate_us"/>
+
+
+        </menu>
+    </item>
+</menu>

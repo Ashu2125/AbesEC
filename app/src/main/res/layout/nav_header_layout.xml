@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:background="#552B28">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="154dp"
+        android:contentDescription="Header"
+        android:paddingLeft="5dp"
+        android:background="@drawable/circle"
+        android:src="@drawable/abeslogo1">
+
+    </ImageView>
+
+
+</LinearLayout>
